@@ -67,7 +67,7 @@ STEP 6: COMPLETE
 
 ## 📝 DETAILED EXAMPLE WITH NUMBERS
 
-Let's say you want the mechanism to visit 3 points:
+Let's say we want the mechanism to visit 3 points:
 
 **INPUT (Your GUI):**
 
